@@ -318,25 +318,3 @@ void bundleAdjustment(   const vector<Point3f> points_3d, const vector<Point2f> 
    cout<<"T = "<<endl<<Eigen::Isometry3d(pose->estimate()).matrix()<<endl;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
