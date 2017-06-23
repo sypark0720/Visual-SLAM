@@ -280,43 +280,4 @@ void bundleAdjustment(const vector< Point3f >& pts1, const vector< Point3f >& pt
    cout<<"optimization costs time: "<<time_used.count()<<" seconds."<<endl;
    cout<<endl<<"after optimization:"<<endl;
    cout<<"T="<<endl<<Eigen::Isometry3d( pose->estimate() ).matrix()<<endl;
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
