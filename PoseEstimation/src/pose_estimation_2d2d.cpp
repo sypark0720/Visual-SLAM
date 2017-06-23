@@ -128,28 +128,3 @@ void pose_estimation(vector< KeyPoint >& keypoints_1, vector< KeyPoint >& keypoi
    cout<<endl<<"t "<<endl<<t;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
