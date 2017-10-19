@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pan/Desktop/coding_test/plane_ransac.cpp
+iostream
+-
+cmath
+-
+time.h
+-
+tuple
+-
+vector
+-
+
